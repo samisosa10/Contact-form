@@ -1,0 +1,76 @@
+body{
+    background: #F6D8C6;
+}
+
+h1{
+    color: #B88E2F;
+    font-family: poppins;
+    font-size: 96px;
+    font-weight: 800;
+    line-height: 40px;
+}
+
+.lading-page{
+    color: #B88E2F;
+    font-family: montserrat;
+    font-size: 23.42px;
+    line-height: 7.64px;
+    font-weight: 200;
+    letter-spacing: 3.28px;
+}
+
+.text{
+    font-family: montserrat;
+}
+
+.main{
+    width: 500px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 36px;
+    padding: 0px 100px;
+    display: flex;
+}
+
+.footer{
+
+    padding: 15px 130px ;
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    display: inline-block;
+    font-family: montserrat;
+    
+    color: black;
+    
+    
+}
+
+p:last-child{
+   
+    display: inline-block;
+    font-family: montserrat;
+    
+}
+
+.img-footer{
+    position: relative;
+    top: 10px;
+    left: -15px;
+}
+
+.img-main{
+    width: 300px;
+    height: 300px;
+
+}
+
+.img-main img{
+    padding: 60px 0 0 50px;
+    object-fit: cover;
+    width: 400px;
+    height: 500px;
+    
+}
